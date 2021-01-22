@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico&display=swap");
+
+body {
+  background: #eee;
+}
+
+#bb {
+  text-align: center;
+}
+
+#wrapper {
+  display: inline-block;
+  text-align: center;
+  background: #e7dcd9;
+  width: 380px;
+}
+
+button {
+  width: 100px;
+  height: 100px;
+  border: none;
+  border-bottom: 4px solid #000;
+  background: #42b79f;
+  outline-color: transparent;
+  outline-style: none;
+  font-size: 16px;
+  margin: 10px;
+}
